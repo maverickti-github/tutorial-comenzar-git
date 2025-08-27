@@ -1,0 +1,11 @@
+PS D:\Git\tutorial-comenzar-git> git remote show origin
+* remote origin
+  Fetch URL: https://github.com/maverickti-github/tutorial-comenzar-git.git      
+  Push  URL: https://github.com/maverickti-github/tutorial-comenzar-git.git      
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (up to date)git
