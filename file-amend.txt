@@ -1,0 +1,1 @@
+Ejemplo al comando git commit --amend
