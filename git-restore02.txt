@@ -1,0 +1,16 @@
+git restore 02
+Donde solo queremos cambiar el stage de restore01
+
+Output
+PS D:\Git\tutorial-comenzar-git> git add *
+PS D:\Git\tutorial-comenzar-git> git status
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   example-git-checkout.txt
+        new file:   git-restore01.txt
+        new file:   git-restore02.txt
+        

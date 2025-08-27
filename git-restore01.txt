@@ -1,0 +1,16 @@
+Ejemplo de git restore 01
+
+PS D:\Git\tutorial-comenzar-git> git restore --staged .\git-restore01.txt
+PS D:\Git\tutorial-comenzar-git> git status
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   example-git-checkout.txt
+        new file:   git-restore02.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        git-restore01.txt

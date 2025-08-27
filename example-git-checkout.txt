@@ -1,0 +1,2 @@
+Ejemplo con el comando git checkput -- file
+    
