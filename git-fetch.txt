@@ -1,0 +1,2 @@
+Ejemplo del comando Get fetch en repositorios remotos
+Se crea desde Github el archivo llamado git-fetch.txt, el cual en el repositorio local no existe y vamos actualizarlo
