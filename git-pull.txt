@@ -1,1 +1,14 @@
 Ejemplo para el comando git-pull
+Output al ejecutar el comandoremote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 1000 bytes | 111.00 KiB/s, done.
+From https://github.com/maverickti-github/tutorial-comenzar-git
+ * branch            main       -> FETCH_HEAD
+   eb1c2d8..e02608f  main       -> origin/main
+Updating eb1c2d8..e02608f
+Fast-forward
+ git-pull.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 git-pull.txt
